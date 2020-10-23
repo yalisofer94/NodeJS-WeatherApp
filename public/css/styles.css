@@ -1,0 +1,29 @@
+h1 {
+    color: blue; 
+}
+
+body {
+    color: hsl(0, 0%, 20%);
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+footer {
+    color: #888888;
+    border-top: 1px solid #eeeeee;
+    margin-top: 16px;
+    padding: 16px 0;
+}
+
+input {
+border: 1px solid #cccccc;
+padding: 8px;
+}
+button { 
+    cursor: pointer;
+    border: 1px solid #888888;
+    background: #888888;
+    color: white;
+    padding: 8px;
+}
